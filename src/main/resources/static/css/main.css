@@ -1,0 +1,16 @@
+
+table{
+	margin: 1%;
+	border: 1px solid;
+	background-color: skyblue;
+}
+h2{
+	text-align: center;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	background-color:cadetblue;
+}
+h3{
+	text-align: center;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	background-color:bisque;
+}
